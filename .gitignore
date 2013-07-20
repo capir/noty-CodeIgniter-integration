@@ -6,3 +6,5 @@ child/
 
 node_modules/
 _SpecRunner.html
+
+*/__init__.py
